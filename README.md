@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5300&lines=Bem-vindo+ao+meu+GitHub+!+)](https://git.io/typing-svg)
 
-<!--
-**gabriel-lopes-dev/gabriel-lopes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Meu nome é Gabriel Lopes. 🧑🏻‍💻</p>
 
-Here are some ideas to get you started:
+<p>Estou cursando Desenvolvimento Web na Trybe. 💚</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Habilidades que estou aprimorando:</p>
+<br>
+
+&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" height="40" width="60"/>
+&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="60">
+&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="60">
+&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="40" width="60">
+<br><br>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gabriel-lopes-dev&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="gabriel-lopes-dev" />
