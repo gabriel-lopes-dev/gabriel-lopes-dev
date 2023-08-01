@@ -1,6 +1,6 @@
-<p>Meu nome é Gabriel Lopes. 🧑🏻‍💻
+<p>Meu nome é Gabriel Lopes.
 
-Estou cursando Desenvolvimento Web na Trybe. 💚
+Atualmente estou estudando sobre Desenvolvimento Web. 🧑🏻‍💻
 
 Stacks em desenvolvimento:</p>
 
